@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0bb942763db1dbd4bab4301994665666
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Gracz: {fileID: 1941427225945369705, guid: c259aba231856f142b8afe798551ff43, type: 3}
+  - pozycjaStartowa: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
